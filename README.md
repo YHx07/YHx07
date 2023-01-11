@@ -10,6 +10,7 @@
 
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/d-pavlov-p/)
+- 📝 [My CV](https://github.com/YHx07/CV)
 
 <!--
 **YHx07/YHx07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
